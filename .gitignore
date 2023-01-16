@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+.idea/
+static/
+node_modules/
+
+.DS_Store
+Thumbs.db
+
+*.sqlite3
+
+schoolEnv/
